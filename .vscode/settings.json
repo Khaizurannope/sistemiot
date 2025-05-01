@@ -1,0 +1,12 @@
+{
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "bootclassiot",
+            "host": "bootclassiot.cloud.shiftr.io",
+            "port": 1883,
+            "username": "bootclassiot",
+            "password": "rsBKEKFT37hfBR0v",
+            "clientId": "vsmqtt_client_f978"
+        }
+    ]
+}
